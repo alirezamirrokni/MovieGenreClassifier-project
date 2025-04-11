@@ -87,5 +87,6 @@ pip install -r requirements.txt
 3. **Open `AI_NLP_Project.ipynb` file and run its cells**.
 
 ## Authors        
--[Alireza Mirrokni](https://github.com/alirezamirrokni)    
+-[Alireza Mirrokni](https://github.com/alirezamirrokni)
+-[Asal Meskin](https://github.com/asalmskin)
 
